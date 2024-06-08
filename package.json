@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "check-password-complexity": "latest",
+    "check-password-complexity": "^0.1.4",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "react": "latest",

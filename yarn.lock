@@ -3100,10 +3100,10 @@ char-regex@^2.0.0:
   resolved "https://registry.yarnpkg.com/char-regex/-/char-regex-2.0.1.tgz#6dafdb25f9d3349914079f010ba8d0e6ff9cd01e"
   integrity sha512-oSvEeo6ZUD7NepqAat3RqoucZ5SeqLJgOvVIwkafu6IP3V0pO38s/ypdVUmDDK6qIIHNlYHJAKX9E7R7HoKElw==
 
-check-password-complexity@latest:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/check-password-complexity/-/check-password-complexity-0.1.1.tgz#35e6baba2973396a1afb355754701458992a2bb0"
-  integrity sha512-Ic2crfUo4mDY75I8cWltkSr9G6prJjXIBzMQTc+k0miqFMuRNBAPQbHtv2CaUpxg6Xxdr1poji38721NlA6G1A==
+check-password-complexity@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/check-password-complexity/-/check-password-complexity-0.1.4.tgz#e3f61d7eb8477d75cff9fbc356dd61b882388f49"
+  integrity sha512-U6EMYEIZ43232Uqr/K2R6R7ESlB/kJkEyxLbd1VXVrwMDvNhfbypadAWOctpgmW0y0Fp8py7bJKjXVLk3RQw0Q==
 
 check-types@^11.2.3:
   version "11.2.3"
