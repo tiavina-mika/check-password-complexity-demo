@@ -11,7 +11,8 @@
     "react-dom": "latest",
     "typescript": "latest"
   },
-  "description": "https://github.com/mui/material-ui/blob/v5.15.19/docs/data/material/components/tabs/LabTabs.tsx",
+  "license": "MIT",
+  "description": "https://github.com/tiavina-mika/check-password-complexity",
   "devDependencies": {
     "react-scripts": "latest"
   },
@@ -21,5 +22,17 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
