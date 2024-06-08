@@ -7,6 +7,7 @@ const App = () => {
   const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
     setPassword(e.target.value);
   };
+
   return (
     <div className="root">
       <div>
@@ -27,12 +28,12 @@ const App = () => {
           <label>Result:</label>
           <pre>
             {JSON.stringify(
-              checkPasswordComplexity(password, { minLength: 8 }),
+              // here is the result
+              checkPasswordComplexity(password),
               null,
               2,
             )}
           </pre>
-          {/* <span>{checkPasswordComplexity(password, { minLength: 8 }).value}</span> */}
         </div>
       </div>
     </div>
