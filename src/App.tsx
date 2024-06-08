@@ -36,6 +36,19 @@ const App = () => {
           </pre>
         </div>
       </div>
+      <footer>
+        <div>
+          <a href="https://github.com/tiavina-mika/check-password-complexity">
+            GitHub
+          </a>
+          <a href="https://www.npmjs.com/package/check-password-complexity">
+            npm
+          </a>
+          <a href="https://www.linkedin.com/in/tiavina-michael-ralainirina/">
+            LinkedIn
+          </a>
+        </div>
+      </footer>
     </div>
   );
 };
