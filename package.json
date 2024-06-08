@@ -1,10 +1,6 @@
 {
   "dependencies": {
     "check-password-complexity": "latest",
-    "@emotion/react": "latest",
-    "@emotion/styled": "latest",
-    "@mui/lab": "latest",
-    "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "react": "latest",
