@@ -1,0 +1,55 @@
+Arguments: 
+  /usr/local/share/nvm/versions/node/v20.12.1/bin/node /usr/share/yarn/bin/yarn.js install
+
+PATH: 
+  /opt/conda/condabin:/home/codespace/.dotnet:/home/codespace/nvm/current/bin:/home/codespace/.php/current/bin:/home/codespace/.python/current/bin:/home/codespace/java/current/bin:/home/codespace/.ruby/current/bin:/home/codespace/.local/bin:/usr/local/python/current/bin:/usr/local/py-utils/bin:/usr/local/oryx:/usr/local/go/bin:/go/bin:/usr/local/sdkman/bin:/usr/local/sdkman/candidates/java/current/bin:/usr/local/sdkman/candidates/gradle/current/bin:/usr/local/sdkman/candidates/maven/current/bin:/usr/local/sdkman/candidates/ant/current/bin:/usr/local/rvm/gems/default/bin:/usr/local/rvm/gems/default@global/bin:/usr/local/rvm/rubies/default/bin:/usr/local/share/rbenv/bin:/usr/local/php/current/bin:/opt/conda/bin:/usr/local/nvs:/usr/local/share/nvm/current/bin:/usr/local/hugo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/share/dotnet:/root/.dotnet/tools:/usr/local/rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.12.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /root/.cache/yarn/v6/npm-stylis-4.2.0-79daee0208964c8fe695a42fcffcac633a211a51-integrity/node_modules/stylis/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:310:30)
+      at /usr/share/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "dependencies": {
+      "check-password-complexity": "latest",
+      "@emotion/react": "latest",
+      "@emotion/styled": "latest",
+      "@mui/lab": "latest",
+      "@mui/material": "latest",
+      "@types/react": "latest",
+      "@types/react-dom": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "typescript": "latest"
+    },
+    "description": "https://github.com/mui/material-ui/blob/v5.15.19/docs/data/material/components/tabs/LabTabs.tsx",
+    "devDependencies": {
+      "react-scripts": "latest"
+    },
+    "main": "index.tsx",
+    "scripts": {
+      "build": "react-scripts build",
+      "eject": "react-scripts eject",
+      "start": "react-scripts start",
+      "test": "react-scripts test"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
