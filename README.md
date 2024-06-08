@@ -1,2 +1,8 @@
 # check-password-complexity-demo
-Created with CodeSandbox
+<p>
+  npm: https://www.npmjs.com/package/check-password-complexity
+</p>
+
+<p>
+  github: https://github.com/tiavina-mika/check-password-complexity
+</p>
